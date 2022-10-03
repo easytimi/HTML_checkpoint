@@ -1,0 +1,65 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+
+}
+.tray {
+    background-color: blue;
+    max-width: 2000px;
+    padding: 5px;
+}
+.jack li a {
+    color: burlywood;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin-left: 200px;
+    text-transform: uppercase;
+    letter-spacing: 1.6px;
+
+}
+.jack li a:hover{
+    background-color:#ffff ;
+    color: #333;
+    font: weight 900px; ;
+    padding: 24px 10px;
+    font: size 12px; ;
+    cursor: pointer;
+}
+li{
+    display: inline;
+}
+
+#HOMEPAGE{
+color: brown;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: xx-large;
+}
+h2{
+    color: crimson;
+    margin-left: 20px;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-size: 20px;
+    margin: 10px;
+}
+form label{
+    margin-left:20px;
+}
+form input{
+    margin-left: 20px;
+}
+a{
+    margin-left: 500px;
+}
+iframe{
+    margin-left: 400px;
+}
+.back{
+    height: 50px;
+    max-width: 2000px;
+    color:rgb(153, 51, 92);
+    margin-left: 500px;
+}
